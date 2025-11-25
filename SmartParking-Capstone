@@ -1,0 +1,24 @@
+# Smart Parking System – Graduation Capstone Project
+
+**Goal:** Detect available parking spaces and vehicle types in real time and display them to users in an Android app.
+
+**Tech stack:** YOLOv5 (computer vision), Python, Android, MySQL, Navicat
+
+## What I built
+- Trained a YOLOv5 model to detect cars, trucks, bikes and emergency vehicles from camera feeds.
+- Developed an Android application that shows live parking availability based on the detection results.
+- Stored detection results and parking status in a MySQL database and managed the schema using Navicat.
+- Implemented simple analytics to monitor parking usage and support better parking management.
+
+## Files in this folder
+- `report.pdf` – project report / documentation  
+- `presentation.pdf` – slides used to present the project  
+- `code/` – example scripts / notebooks (lightweight version)
+
+## Full project (large files)
+
+The full capstone project (including large models, datasets and full build) is hosted on Google Drive:
+
+🔗 **Full capstone package (2.5GB):** 
+
+https://drive.google.com/file/d/1kwOOJ2VGllA67CZE8auNy6xYLnPQ9gX7/view?usp=drive_link
